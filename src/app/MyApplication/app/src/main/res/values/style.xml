@@ -1,0 +1,7 @@
+
+<resources>
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+        <item name="colorPrimary">#ff0000</item>
+    </style>
+</resources>
